@@ -9,8 +9,7 @@ body {
 }
 
 .container {
-    margin: 160px 0 0 200px;
-
+    margin: 190px 0 0 200px;
 }
 
 .row {
@@ -18,13 +17,13 @@ body {
     height: 60px;
 }
 
-.row1 ,.row2 ,.row3 ,.row4 ,.row5 {
+.row ,.row1 ,.row2 ,.row3 ,.row4 ,.row5 {
     margin: 10px 0 0 0;
 }
 button {
     color: black;
     height: 55px;
-    width: 55px;
+    width: 56px;
     border-radius: 10px;
     border: none;
     background: rgb(214,214,214);
@@ -39,42 +38,59 @@ button:active{
     box-shadow: 1px 1px 2px #fff8f8, -1px -1px 2px #474343;
 }
 .back{
-    width: 115px;
+    width: 170px;
     border-radius: 10px;
 }
 .tab{
-    width: 85px;
+    width: 200px;
     border-radius:10px;
 }
 .bslash{
-    width: 85px;
+    width: 99px;
     border-radius: 10px;
 }
 .caps{
-    width: 100px;
+    width: 170px;
     border-radius: 10px;
 }
 .ent-btn {
-    width: 135px;
+    width: 190px;
     border-radius: 10px;
 }
 .shift {
-    width: 150px;
+    width: 215px;
     border-radius: 10px;
 }
 
 .other{
-    width: 82px;
+    width: 60px;
     border-radius: 10px;
 }
 .space{
-    width: 310px;
+    width: 420px;
     border-radius: 10px;
 }
 
+.left{
+    height: 55px;
+    width: 40px;
+    border-radius: 10px;
+}
+.right{
+    height: 55px;
+    width: 40px;
+    border-radius: 10px;
+}
+.up , .down {
+    height: 55px;
+    width: 37px;
+    border-radius: 10px;
+}
 
-
-
+.num {
+    width: 125px;
+    border-radius: 10px;
+}
 
 
 
